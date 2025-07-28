@@ -1,0 +1,19 @@
+# Core ML & NLP Libraries
+transformers
+sentence_transformers
+spacy 
+scikit-learn 
+numpy 
+nltk
+
+# PyTorch - Installed manually for GPU support
+torch
+torchvision
+torchaudio
+
+# Data & PDF Processing
+pdfplumber
+sentencepiece
+
+# Hugging Face Hub for Downloads
+huggingface_hub
