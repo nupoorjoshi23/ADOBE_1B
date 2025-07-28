@@ -1,0 +1,77 @@
+{
+    "metadata": {
+        "input_documents": [
+            "Breakfast Ideas.pdf",
+            "Dinner Ideas - Mains_1.pdf",
+            "Dinner Ideas - Mains_2.pdf",
+            "Dinner Ideas - Mains_3.pdf",
+            "Dinner Ideas - Sides_1.pdf",
+            "Dinner Ideas - Sides_2.pdf",
+            "Dinner Ideas - Sides_3.pdf",
+            "Dinner Ideas - Sides_4.pdf",
+            "Lunch Ideas.pdf"
+        ],
+        "persona": "Food Contractor",
+        "job_to_be_done": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items.",
+        "processing_timestamp": "2025-07-28T23:36:59.607987"
+    },
+    "extracted_sections": [
+        {
+            "document": "Dinner Ideas - Sides_2.pdf",
+            "section_title": "Freekeh Salad",
+            "importance_rank": 1,
+            "page_number": 10
+        },
+        {
+            "document": "Dinner Ideas - Sides_2.pdf",
+            "section_title": "Content from page 13",
+            "importance_rank": 2,
+            "page_number": 13
+        },
+        {
+            "document": "Dinner Ideas - Mains_2.pdf",
+            "section_title": "Ingredients:",
+            "importance_rank": 3,
+            "page_number": 5
+        },
+        {
+            "document": "Dinner Ideas - Mains_2.pdf",
+            "section_title": "Ingredients:",
+            "importance_rank": 4,
+            "page_number": 9
+        },
+        {
+            "document": "Dinner Ideas - Mains_2.pdf",
+            "section_title": "Ingredients:",
+            "importance_rank": 5,
+            "page_number": 4
+        }
+    ],
+    "subsection_analysis": [
+        {
+            "document": "Dinner Ideas - Sides_2.pdf",
+            "refined_text": "\u2022 Ingredients: o 1 cup freekeh o 2 cups water o 1 small onion o 1/4 cup parsley o 1/4 cup mint o 1/4 cup lemon juice o 1/4 cup olive oil o 1 teaspoon salt \u2022 Instructions: o Rinse freekeh and cook in water until tender, then drain. o Mix freekeh with saut\u00e9ed onion, chopped parsley, and mint. o Saut\u00e9 diced onion in olive oil until softened. o Whisk lemon juice, olive oil, and salt, then pour over salad. o Toss well and serve.",
+            "page_number": 10
+        },
+        {
+            "document": "Dinner Ideas - Sides_2.pdf",
+            "refined_text": "o 1 package rice paper wrappers o 1/2 pound shrimp o 1/2 cup rice vermicelli o 1/2 cup lettuce o 1/4 cup mint o 1/4 cup cilantro o 1/4 cup basil o 1/4 cup carrots o 1/4 cup cucumber \u2022 Instructions: o Cook shrimp and slice in half. o Cook rice vermicelli according to package instructions, then drain. o Soak rice paper wrappers in warm water until pliable. o Place a small amount of shrimp, vermicelli, lettuce, mint, cilantro, basil, julienned carrots, and cucumber on each wrapper. o Roll tightly and serve with dipping sauce.",
+            "page_number": 13
+        },
+        {
+            "document": "Dinner Ideas - Mains_2.pdf",
+            "refined_text": "\u2022 1 cup broccoli florets \u2022 1 cup bell peppers, sliced \u2022 1 cup snow peas \u2022 1 small onion, diced \u2022 2 cloves garlic, minced \u2022 2 tablespoons soy sauce \u2022 1 tablespoon oyster sauce \u2022 1 tablespoon sesame oil \u2022 1 teaspoon cornstarch \u2022 1/4 cup water \u2022 Cooked rice for serving",
+            "page_number": 5
+        },
+        {
+            "document": "Dinner Ideas - Mains_2.pdf",
+            "refined_text": "\u2022 1 pound chicken breast, sliced \u2022 1 cup broccoli florets \u2022 1 cup bell peppers, sliced \u2022 1 small onion, diced \u2022 2 cloves garlic, minced \u2022 2 tablespoons soy sauce \u2022 1 tablespoon oyster sauce \u2022 1 tablespoon sesame oil \u2022 1 teaspoon cornstarch \u2022 1/4 cup water \u2022 Cooked rice for serving",
+            "page_number": 9
+        },
+        {
+            "document": "Dinner Ideas - Mains_2.pdf",
+            "refined_text": "\u2022 1 pound chicken breast, cubed \u2022 1 small onion, diced \u2022 2 cloves garlic, minced \u2022 1 bell pepper, sliced \u2022 1 cup coconut milk \u2022 1/2 cup chicken broth \u2022 2 tablespoons green curry paste \u2022 1 tablespoon fish sauce \u2022 1 tablespoon brown sugar \u2022 1/4 cup fresh basil leaves \u2022 2 tablespoons vegetable oil \u2022 Cooked rice for serving",
+            "page_number": 4
+        }
+    ]
+}
